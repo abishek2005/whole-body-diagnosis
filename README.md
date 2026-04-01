@@ -488,38 +488,6 @@ See `.github/workflows/ci_cd.yml` for details.
 
 ---
 
-## 🤝 Contributing
-
-1. Create feature branch: `git checkout -b feature/my-feature`
-2. Make changes and commit: `git commit -m "Add my feature"`
-3. Push to branch: `git push origin feature/my-feature`
-4. Create Pull Request with description
-
----
-
-## 📞 Support
-
-- **Issues**: Create GitHub issue
-- **Email**: support@yourorg.com
-- **Documentation**: See `docs/` directory
-- **API Docs**: `/api/docs` (interactive Swagger UI)
-
----
-
-## 📄 License
-
-MIT License - See LICENSE file for details
-
----
-
-## 👥 Team
-
-- **ML Engineering**: Team
-- **DevOps**: Team
-- **Data Science**: Team
-
----
-
 **Version**: 2.0.0  
 **Last Updated**: March 2024  
 **Status**: Production Ready ✅
